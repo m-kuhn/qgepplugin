@@ -3,3 +3,6 @@ networkx
 flake8
 pep8-naming
 nose2
+mock
+future
+six>=1.7
